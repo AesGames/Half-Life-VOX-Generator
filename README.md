@@ -1,6 +1,10 @@
 # Half-Life VOX Generator
-Half-Life VOX sentence generator made in C#.
-Requires NAudio to compile, you can get it using Nuget.
+Half-Life VOX sentence generator made in C#. 
+
+Requires NAudio to compile, you can get it using Nuget:
+```
+Install-Package NAudio -Version 1.10.0
+```
 You require Half-Life on steam to get the voice files for VOX, HEV and Hgrunt (Must be WAVE!).
 
 ***
